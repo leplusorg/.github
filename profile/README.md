@@ -1,5 +1,9 @@
 # Welcome to [Leplus.org](https://www.leplus.org) OSS Repositories 👋
 
+<p align="center">
+  <img src="https://github.com/leplusorg/.github/blob/main/profile/open_source_bg_github.png?raw=true" alt="Banner"/>
+</p>
+
 You can find my open source projects [here](https://github.com/leplusorg?tab=repositories).
 
 All the projects are continuously scanned for known vulnerabilities (CVE). Releases uses [semantic versioning](https://semver.org). All commits go through a code review before being merged. All the merged commits and the resulting published artifacts are digitally signed:
