@@ -10,7 +10,7 @@ Our projects follow the certain guidelines and best practices as described below
 
 ## Code of Conduct
 
-We want our community to be a place to share constructively. Personal viewpoints are welcome to allow for out-of-the-box ideas to emerge. But harassment is NOT welcome and will not be tolerated. Harassment includes deliberate intimidation and targeting individuals in a manner that makes them feel uncomfortable, unwelcome, or afraid to participate.
+We want our community to be a place to share constructively. Personal viewpoints are welcome to foster out-of-the-box ideas and innovative contributions. But harassment is NOT welcome and will not be tolerated. Harassment includes deliberate intimidation and targeting individuals in a manner that makes them feel uncomfortable, unwelcome, or afraid to participate.
 
 ## Open Source Software (OSS)
 
