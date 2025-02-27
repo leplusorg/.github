@@ -21,6 +21,7 @@ We believe in the power of open source software as defined by the Open Source In
 All the projects are continuously scanned for known vulnerabilities (CVE). Releases uses [semantic versioning](https://semver.org). All commits go through a code review before being merged. All the merged commits and the resulting published artifacts are digitally signed:
 
 - GitHub commits are signed using [GitHub's verified signature](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits).
+- Docker Hub artifacts are signed using [Sigstore](https://www.sigstore.dev).
 - Maven Central artifacts are signed using public key [4C155617](https://pgp.mit.edu/pks/lookup?op=get&search=0x6B1B9BE54C155617) which you can verity using this [docker image](https://hub.docker.com/r/leplusorg/pgp-verify-jar) for example.
 
 All the third-party (open source) dependencies are linked to a specific version to keep builds reproducible and to prevent supply chain attacks (cryptographic hashes are used instead or on top of numerical versions wherever possible in order to pin mutable versions, e.g. for Docker containers or GitHub Actions).
