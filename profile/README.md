@@ -29,6 +29,6 @@ All the third-party (open source) dependencies are linked to a specific version 
 
 Memory-safe programming languages are used whenever possible.
 
-[Repos status dashboard](https://github.com/leplusorg/actions-dashboard/blob/main/dashboard.md)
+[![Repos status dashboard](https://img.shields.io/badge/Repos%20status%20dashboard)](https://github.com/leplusorg/actions-dashboard/blob/main/dashboard.md)
 
 I also have other incubating projects [here](https://github.com/thomasleplus?tab=repositories).
