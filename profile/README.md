@@ -12,6 +12,8 @@ Our projects follow the certain guidelines and best practices as described below
 
 We want our community to be a place to share constructively. Personal viewpoints are welcome to foster out-of-the-box ideas and innovative contributions. But harassment is NOT welcome and will not be tolerated. Harassment includes deliberate intimidation and targeting individuals in a manner that makes them feel uncomfortable, unwelcome, or afraid to participate.
 
+See the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) for details.
+
 ## Open Source Software (OSS)
 
 We believe in the power of open source software as defined by the Open Source Initiative (OSI) [definition](https://opensource.org/osd). We aim to exchange knowledge freely in order to achieve the best possible software and to grow our community and its knowledge along with the way.
