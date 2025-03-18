@@ -26,7 +26,7 @@ All the projects are continuously scanned for known vulnerabilities (CVE). Relea
 - Docker Hub artifacts are signed using [Sigstore](https://www.sigstore.dev).
 - Maven Central artifacts are signed using public key [4C155617](https://pgp.mit.edu/pks/lookup?op=get&search=0x6B1B9BE54C155617) which you can verity using this [docker image](https://hub.docker.com/r/leplusorg/pgp-verify-jar) for example.
 
-All the third-party (open source) dependencies are linked to a specific version to keep builds reproducible and to prevent supply chain attacks (cryptographic hashes are used instead or on top of numerical versions wherever possible in order to pin mutable versions, e.g. for Docker containers or GitHub Actions).
+All the third-party (open source) dependencies are linked to a specific version to keep builds [reproducible](https://reproducible-builds.org) and to prevent supply chain attacks (cryptographic hashes are used instead or on top of numerical versions wherever possible in order to pin mutable versions, e.g. for Docker containers or GitHub Actions).
 [Software Bill of Materials (SBOM)](https://en.wikipedia.org/wiki/Software_supply_chain) are also produced along the artifacts to provide to visibility necessary to ensure supply chain security and transparency.
 
 Memory-safe programming languages are used whenever possible.
