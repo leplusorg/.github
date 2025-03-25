@@ -33,4 +33,4 @@ Memory-safe programming languages are used whenever possible.
 
 [![Repos status dashboard](https://img.shields.io/badge/Repos-Dashboard-blue)](https://github.com/leplusorg/actions-dashboard/blob/main/dashboard.md)
 
-Other incubating and personal projects of Thomas Leplus can be found [here](https://github.com/thomasleplus?tab=repositories).
+More miscellaneous projects of Thomas Leplus can be found [here](https://github.com/thomasleplus?tab=repositories).
