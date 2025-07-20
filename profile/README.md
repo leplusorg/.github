@@ -4,7 +4,7 @@
   <img src="https://github.com/leplusorg/.github/blob/main/profile/open_source_bg_github.jpg?raw=true" alt="Banner"/>
 </p>
 
-You can find my open source projects [here](https://github.com/leplusorg?tab=repositories).
+You can find here my [open source projects](https://github.com/leplusorg?tab=repositories).
 
 Our projects follow the certain guidelines and best practices as described below.
 
@@ -33,4 +33,4 @@ Memory-safe programming languages are used whenever possible.
 
 [![Repos status dashboard](https://img.shields.io/badge/Repos-Dashboard-blue)](https://github.com/leplusorg/actions-dashboard/blob/main/dashboard.md)
 
-More miscellaneous projects of Thomas Leplus can be found [here](https://github.com/thomasleplus?tab=repositories).
+More [miscellaneous projects](https://github.com/thomasleplus?tab=repositories) of Thomas Leplus.
