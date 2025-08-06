@@ -1,4 +1,4 @@
-# Welcome to [Leplus.org](https://www.leplus.org) OSS Repositories 👋
+# Welcome to [Leplus.org](https://www.leplus.org) OSS Repositories
 
 <p align="center">
   <img src="https://github.com/leplusorg/.github/blob/main/profile/open_source_bg_github.jpg?raw=true" alt="Banner"/>
