@@ -23,7 +23,7 @@ We believe in the power of open source software as defined by the Open Source In
 - All repos are continuously scanned for known vulnerabilities (CVE).
 - All commits go through a code review before being merged.
 - All commit messages use [Conventional Commits](https://www.conventionalcommits.org).
-- All published releases and artifacts are versionned using [Semantic Versioning](https://semver.org/).
+- All published releases and artifacts are versioned using [Semantic Versioning](https://semver.org/).
 - All the merged commits and the resulting published artifacts are digitally signed:
   - Git commits are signed using [GitHub's verified signature](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits).
   - Docker Hub artifacts are signed using [Sigstore](https://www.sigstore.dev).
